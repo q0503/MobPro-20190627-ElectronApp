@@ -1,0 +1,6 @@
+body {
+    background-color: rgba(0, 0, 0, 0);
+    color: deeppink;
+    -webkit-app-region: drag;
+    -webkit-user-select: none;
+}
