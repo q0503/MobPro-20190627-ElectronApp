@@ -19,6 +19,9 @@ function createWindow() {
     }
   })
 
+  //set window always on top
+  mainWindow.setAlwaysOnTop(true)
+
   // and load the index.html of the app.
   mainWindow.loadFile('index.html')
 
